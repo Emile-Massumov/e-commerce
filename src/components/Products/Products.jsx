@@ -14,7 +14,7 @@ const Products = () => {
                <Product/>
                 </Grid>
             ))}
-            <Grid/>
+            </Grid>
 
     </main>
 }
